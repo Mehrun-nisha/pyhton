@@ -85,14 +85,7 @@ data3="james"
 #     print(i)
 
 #6
-n=9876
 
-for i in n>=9:
-    count=0
-    q=n%10
-    n=q
-    count=count+1
-    print(count)
 
 
 
