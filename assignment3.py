@@ -85,6 +85,35 @@ data3="james"
 #     print(i)
 
 #6
+#6
+# n=76
+# count=0
+# while n!=0:
+#     n//=10
+#     count=count+1
+# print(count)
+# Exercise 5: Accept a list of 5 float numbers as an input from the user
+# list=[]
+# for i in range(3):
+
+#   lst=float(input("enter only float 5 numbers"))
+#   list.append(lst)
+# print(list)
+
+#Exercise 6: Write all content of a given file into a new file by skipping line number 5--------??????
+#Exercise 7: Accept any three string from one input() call
+
+# for i in range(3):
+#   str=input(str).split()
+#   i=i-1
+# print(str)
+
+# Exercise 8: Format variables using a string.format() method.
+# firstname="latthika"
+# lastname ="gdffs"
+# name ="hjfd"
+# print(f'firstname {firstname} ,name {name} ,lastname {lastname}')
+
 
 
 
